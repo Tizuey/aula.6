@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Estamos com fome
+=======
+asdfghjk
+Segundo nome
+>>>>>>> 6a2823b8741d1beaddf44765f25c5dbe66b23a91
